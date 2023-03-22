@@ -1,0 +1,8 @@
+{
+  "solidity.defaultCompiler": "remote",
+  "editor.formatOnSave": true,
+  "solidity.formatter": "forge",
+  "[solidity]": {
+    "editor.defaultFormatter": "JuanBlanco.solidity"
+  }
+}
